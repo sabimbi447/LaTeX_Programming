@@ -1,1 +1,1 @@
-# Rejoice Final year project
+# Rejoice Final year project of Pharmacy
